@@ -1,5 +1,5 @@
 var oldStyle = "I'm a var variable";
-let name = "Taseen";
+let name = "Ayan";
 const pi = 3.14159;
 
 let myString = "Hello, JavaScript!";
